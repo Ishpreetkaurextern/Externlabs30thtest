@@ -1,0 +1,91 @@
+#whitedot1{
+width: 10px;
+height: 10px;
+margin-left: 10px;
+margin-right: 10px;
+}
+#whitedot2{
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+#whitedot3{
+    width: 10px;
+    height: 10px;
+    
+}
+#navbar1{
+    background-color: black;
+}
+#product{
+    position: absolute;
+    width: 56px;
+    height: 24px;
+    left: 1459px;
+    top: 5px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+}
+#home{
+    position: absolute;
+    width: 120px;
+    height: 24px;
+    left: 1331px;
+    top: 6px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+}
+#about{
+    position: absolute;
+    width: 103px;
+    height: 24px;
+    left: 1564px;
+    top: 5px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+}
+#blog{
+    position: absolute;
+    width: 111px;
+    height: 24px;
+    left: 1646px;
+    top: 5px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+}
+#user{
+    position: absolute;
+    width: 35px;
+    height: 24px;
+    left: 1723px;
+    top: 15px;
+   
+    
+}
+#cart{
+    position: absolute;
+    width: 47px;
+    height: 28px;
+    left: 1779px;
+    top: 9px;
+}
+.navbar-brand{
+    padding-left: 97px;
+    font-weight: bolder;
+}
